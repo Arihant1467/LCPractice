@@ -14,3 +14,5 @@ You are free to use your own language.
 | :------------- | :------------- | :----------: | -----------: |
 | 1 | 1 | [Search in 2-D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)   | Binary Search   |
 | 2 | 1 | [Search in rotated sorted array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Binary Search |
+| 3 | 2 | [Find first and last position in an array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Binary Search |
+| 4 | 2 | [Search Elemenet in Circular sorted Array](https://www.techiedelight.com/search-element-circular-sorted-array/) | Binary Search |
